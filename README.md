@@ -1,4 +1,4 @@
-# java-assignment-1
+# java-assignment-2
 Created by : <br>
 Name : Devender <br> 
 Roll no. : 25636 <br>
